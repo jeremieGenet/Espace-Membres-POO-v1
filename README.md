@@ -1,5 +1,5 @@
-# Espace-Membres-POO-v1
-Première factorisation de l'espace membres
+# Espace-Membres-POO
+  Création d'un espace membre en POO PHP
 
-Après une avoir codé de façon procédurale, voici la version objet n°1 qui mérite encore des améliorations.
+
 
